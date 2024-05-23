@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello there <img src= "https://media.giphy.com/media/5BLncqSsL3mDv6rVZA/giphy.gif?cid=790b7611hdhe17xkbvab6s5ajjtgiftom0sz1ydwpnpobj2e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30" height="30"></img> , I'm Gustavo Braga</h1> 
+<h1 align="center">Hello there <img src= "https://media.giphy.com/media/mCMMDi2ge16ssq5Ttm/giphy.gif?cid=790b761118uqczejzyj1mdo82p0tm3bfjnsqrabb0n6z7s9a&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30" height="30"></img> , I'm Gustavo Braga</h1> 
 
 
 ## Technlogies i use
