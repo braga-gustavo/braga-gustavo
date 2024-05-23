@@ -1,9 +1,12 @@
-   ###                                             Hello there 🖖, i'm Gustavo Braga
+
+<div style="display: flex; justify-content: center; align-items: center;">
+   <h1 style="margin-left: 10px;"> Hello there 🖖, i'm Gustavo Braga </h1>
+</div>
 
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=braga-gustavo&show_icons=true&theme=neon&rank_icon=github)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ## Technlogies i use
 
   <div style = "display: inline_block"> 
@@ -19,8 +22,11 @@
       <img aling="center" alt ="postgres" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "/>
       <img aling="center" alt ="mongodb" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "/>
       <img aling="center" alt ="mysql" src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white ">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braga-gustavo&hide_progress=true)
    <div/>
          <br/>
+
   <p style="font-family: 'Helvetica Neue',  font-size: 16px;">
       Currently learning backend development and devops. Aiming to be able to build my fullstack applications
    </p>
