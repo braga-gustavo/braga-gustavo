@@ -1,7 +1,6 @@
 
-<div style="display: flex; justify-content: center; align-items: center;">
-   <h1 style="margin-left: 10px;"> Hello there 🖖, i'm Gustavo Braga </h1>
-</div>
+<h1 align="center">Hello there 🖖, I'm Gustavo Braga</h1>
+
 
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=braga-gustavo&show_icons=true&theme=neon&rank_icon=github)
@@ -28,7 +27,7 @@
          <br/>
 
   <p style="font-family: 'Helvetica Neue',  font-size: 16px;">
-      Currently learning backend development and devops. Aiming to be able to build my fullstack applications
+      Currently learning frontend development and devops. Aiming to be able to build my fullstack applications
    </p>
 
 ### Let's connect 🤝📫
