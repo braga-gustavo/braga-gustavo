@@ -1,9 +1,9 @@
 
-<h1 align="center">Hello there 🖖, I'm Gustavo Braga</h1>
-
+<h1 align="center">Hello there <img src= "https://media.giphy.com/media/5BLncqSsL3mDv6rVZA/giphy.gif?cid=790b7611hdhe17xkbvab6s5ajjtgiftom0sz1ydwpnpobj2e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30" height="30"></img> , I'm Gustavo Braga</h1> 
 
 
 ## Technlogies i use
+
 
   <p align="center">
   <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -21,10 +21,11 @@
  
 </p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=braga-gustavox&theme=tokyonight&rank_icon=defaut&include_all_commits=true" />
+<div style = "display: flex" margin-top: 10px; margin-bottom: 10px;>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=braga-gustavo&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=braga-gustavo&theme=tokyonight"/>
-
+ </div>
+<br/>
 
   <p style="font-family: 'Helvetica Neue',  font-size: 16px;">
       Currently learning frontend development and devops. Aiming to be able to build my fullstack applications
