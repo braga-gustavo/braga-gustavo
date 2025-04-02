@@ -1,9 +1,6 @@
-
-<h1 align="center">Hello there <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNoNTZ3N2VjZjRxam4zMXlnY3RybDFrbzhsYmU4djNuNnN4eGNsciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50" height="50"></img> , I'm Gustavo Braga</h1> 
-
+<h1 align="center">Hello there <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNoNTZ3N2VjZjRxam4zMXlnY3RybDFrbzhsYmU4djNuNnN4eGNsciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50" height="50"></img> , I'm Gustavo Braga</h1>
 
 ## Technlogies i use
-
 
   <p align="center">
   <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -25,8 +22,11 @@
 <br/>
 
   <p style="font-family: 'Helvetica Neue',  font-size: 16px;">
-      Currently learning frontend development and devops. Aiming to be able to build my fullstack applications
-   </p>
+      Full stack developer, focused in Java with Spring boot and Angular.
+ </p>
+  <p style="font-family: 'Helvetica Neue',  font-size: 16px;">
+      Lover of tech and coding 
+  </p>
 
 ### Let's connect 🤝📫
 
@@ -35,11 +35,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:gustavo.b.moraes2@gmail.com">
-      <img src="https://img.shields.io/badge/Email-gustavo.b.moraes2@gmail.com-blue" alt="Email">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
     </a>
   </div>
-
-
-  
-  
-
